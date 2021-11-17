@@ -1,3 +1,7 @@
+# Pokedex practice project
+
+React Pokedex created using create-react-app and following the [Modern React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp) course on Udemy.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
