@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/udemy-react-pokedex/static/css/main.9938a684.chunk.css",
+    "main.js": "/udemy-react-pokedex/static/js/main.ffdb4072.chunk.js",
+    "main.js.map": "/udemy-react-pokedex/static/js/main.ffdb4072.chunk.js.map",
+    "runtime-main.js": "/udemy-react-pokedex/static/js/runtime-main.fd1aab2b.js",
+    "runtime-main.js.map": "/udemy-react-pokedex/static/js/runtime-main.fd1aab2b.js.map",
+    "static/js/2.aff4bb4a.chunk.js": "/udemy-react-pokedex/static/js/2.aff4bb4a.chunk.js",
+    "static/js/2.aff4bb4a.chunk.js.map": "/udemy-react-pokedex/static/js/2.aff4bb4a.chunk.js.map",
+    "static/js/3.ad0969df.chunk.js": "/udemy-react-pokedex/static/js/3.ad0969df.chunk.js",
+    "static/js/3.ad0969df.chunk.js.map": "/udemy-react-pokedex/static/js/3.ad0969df.chunk.js.map",
+    "index.html": "/udemy-react-pokedex/index.html",
+    "static/css/main.9938a684.chunk.css.map": "/udemy-react-pokedex/static/css/main.9938a684.chunk.css.map",
+    "static/js/2.aff4bb4a.chunk.js.LICENSE.txt": "/udemy-react-pokedex/static/js/2.aff4bb4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd1aab2b.js",
+    "static/js/2.aff4bb4a.chunk.js",
+    "static/css/main.9938a684.chunk.css",
+    "static/js/main.ffdb4072.chunk.js"
+  ]
+}
